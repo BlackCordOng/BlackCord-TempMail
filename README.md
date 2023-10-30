@@ -13,7 +13,7 @@ you should use BlackCord Tempmail Because, It Is Undetected, Has Over 7 Domains 
 ![image](https://github.com/yanixdev/BlackCord-TempMail/assets/145277139/05edbcdf-0d16-4f12-b506-4785377fa080)
 
 
-#Photo Of Receiving Discord Verify Link
+# Photo Of Receiving Discord Verify Link
 ![image](https://github.com/yanixdev/BlackCord-TempMail/assets/145277139/ab36fbd0-c5de-4cb8-8f0d-2bb6c27b89e4)
 
 
